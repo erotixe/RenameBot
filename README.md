@@ -1,104 +1,114 @@
-<p align="center">
-<img src="https://graph.org/file/a0c2ab09ea6d665deb174.jpg" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/9936c273582628afb098c.png" alt="logo" target="/blank">
 
-<h2 align="center">
-  ─「 ʀᴇɴᴀᴍᴇ  ʙᴏᴛ 」─
-</h2>
+<h1 align="center">
+ <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( PREMIUM Renamer ) </a></>
+</h1>
+
+<p align="center">🤍 Thanks for Being Here 🤍</p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+𝟺ɢʙ+ʀᴇɴᴀᴍᴇ+ʙᴏᴛ!;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴛᴇᴀᴍ+ɴᴇᴛғʟɪx!;ᴀ+ᴀᴍᴀᴢɪɴɢ+𝟺ɢʙ+ʀᴇɴᴀᴍᴇ+ʙᴏᴛ!)</p>
-</p>
+### ⚡️ Configs 
 
- ━━━━━━━━━━━━━━━━━
+* `TOKEN`  - Get bot token from @BotFather
 
-## - ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇs
-  - `API_ID` - Your Telegram API ID.
-  - `API_HASH` - Your Telegram API HASH.
-  - `TOKEN` - Get it from BotFather.
-  - `ADMIN` - Your ID
-  - `STRING` - Only Need for 4gb Files.
-  - `DB_URL` - Enter Mongodb database URL
-  - `DB_NAME` - Enter Mongodb database URL Name
-  - `CHANNEL` - Force subscribe channel username without `@`
-  - `LOG_CHANNEL` - Log Channel ID.
+* `API_ID` - From my.telegram.org 
 
-## - ᴄᴏᴍᴍᴀɴᴅs
-```
-• /start - ᴛᴏ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-• /about - ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ
-• /refer - ᴛᴏ ɪɴᴄʀᴇᴀꜱᴇ ʏᴏᴜʀ ᴘʟᴀɴ
-• /myplan - ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴꜱ ᴅᴇᴛᴀɪʟꜱ
-• /upgrade - ᴛᴏ ᴜᴘɢʀᴀᴅᴇ ʏᴏᴜʀ ᴘʟᴀɴ
-• /viewthumb - ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ
-• /delthumb - ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ
-• /set_caption - ᴛᴏ ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
-• /del_caption - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴄᴀᴘᴛɪᴏɴ
-• /see_caption - ᴛᴏ ᴄʜᴇᴄᴋ ᴄᴜʀʀᴇɴᴛ ᴄᴀᴘᴛɪᴏɴ
-• /broadcast - ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ
-• /addpremium - ᴛᴏ ᴀᴅᴅ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ
-• /resetpower - ᴛᴏ ʀᴇꜱᴇᴛ ᴜꜱᴇʀ ᴘʀᴇᴍɪᴜᴍ
+* `API_HASH` - From my.telegram.org 
 
-### ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs
+* `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
 
-• ᴜsᴇʀs - ᴛᴏ ᴠɪᴇᴡ ᴏғ ʟɪsᴛᴏғ ᴜsᴇʀs, ᴜsɪɴɢ ʙᴏᴛ [ғᴏʀ ᴀᴅᴍɪɴs ᴜsᴇ ᴏɴʟʏ]
-• ʙʀᴏᴀᴅᴄᴀsᴛ - ᴍᴇssᴀɢᴇ ʙʀᴏᴀᴅᴄᴀsᴛ ᴄᴏᴍᴍᴀɴᴅ [ғᴏʀ ᴀᴅᴍɪɴs ᴜsᴇ ᴏɴʟʏ]
-• ᴄᴇᴀsᴇᴘᴏᴡᴇʀ - ᴛᴏ ᴄᴇᴀsᴇ(ᴅᴏᴡɴɢʀᴀᴅᴇ) ʀᴇɴᴀᴍɪɴɢ ᴄᴀᴘᴀᴄɪᴛʏ [ғᴏʀ ᴀᴅᴍɪɴs ᴜsᴇ ᴏɴʟʏ].
-• ʀᴇsᴇᴛᴘᴏᴡᴇʀ - ᴛᴏ ʀᴇsᴇᴛ ʀᴇɴᴀᴍɪɴɢ ᴄᴀᴘᴀᴄɪᴛʏ (ᴛᴏ ᴅᴇғᴀᴜʟᴛ 𝟸.𝟶 ɢʙ)  [ғᴏʀ ᴀᴅᴍɪɴs ᴜsᴇ ᴏɴʟʏ]
-• ᴀᴅᴅᴘʀᴇᴍɪᴜᴍ - ᴛᴏ ᴜᴘɢʀᴀᴅᴇ ᴜsᴇʀ ᴘʟᴀɴ ᴛᴏ sɪʟᴠᴇʀ - ɢᴏʟᴅ - ᴅɪᴀᴍᴏɴᴅ  [ғᴏʀ ᴀᴅᴍɪɴs ᴜsᴇ ᴏɴʟʏ].
-```
+* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
 
-👆 Click To Copy 👆
+* `DB_NAME`  - Your database name from mongoDB. Default will be 'my'
 
-<details>
-<summary><h3>
-- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
-</h3></summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+* `CHANNEL` - your force sub channel username without @ 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/erotixe/RenameBot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/erotixe/RenameBot&branch=main&name=RenameBot">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/erotixe/RenameBot"">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/erotixe/RenameBot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
-</h3>
+* `LAZY_PIC` - start message photo
+
+* `STRING` - If you want to rename 4GB+ files. `[Note :- Remove string if bot don't works]`
+
+* `BOT_USERNAME` - Add bot username `without @` .
+
+  ### 📶 DEPLOYEMENT SUPPORT
+
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
-<pre>
-git clone https://github.com/erotixe/RenameBot
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
+<br>                 
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2&branch=main&name=gngbabyrenamer" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
+</a>
 </p>
 </details>
 
-<h3> ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Naruto46i/Gangster-Baby-Renamer-V2">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
-- <b>[ᴍɪᴋᴇʏ](https://github.com/erotixe)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://veldxd) </b>
+
+
+
+
+#### 🥰 Features
+ - Renames very fast .
+ - Permanent Thumbnail support.
+ - Force join for the user for use.
+ - Supports Broadcasts.
+ - Set custom caption.
+ - Has a custom Start-up pic.
+ - Force subscribe available.
+ - Supports ulimited renaming at a time.
+ - Deploy to Koyeb + Heroku + Railway.
+ - Developer Service 24x7. 🔥
+
+### 🚦 User Commands
+`/start` - Check if the bot is running.
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/team_netflix) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+`/viewthumb` - To view current thumbnail.
+ 
+`/delthumb` - To delete current thumbnail.
+ 
+`/set_caption` - set a custom caption.
+ 
+`/see_caption` - see your custom caption.
+ 
+`/del_caption` - delete custom caption.
+ 
+`/myplan` - To view users current plan.
+ 
+`/about` - To view bot current status.
+ 
+`/upgrade` - To view all plans with price list of SILVER - GOLD - DIAMOND.
 
-## 📌  𝑵𝒐𝒕𝒆
+### Admin Commands
 
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+`/lazyusers` - To view list of users, using BOT [FOR ADMINS USE ONLY]
+ 
+`/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
+ 
+`/ceasepower` - To cease(downgrade) renaming capacity [FOR ADMINS USE ONLY].
+ 
+`/resetpower` - To reset renaming capacity (to default 1.2 GB)  [FOR ADMINS USE ONLY].
+ 
+`/addpremium` - To upgrade user plan to SILVER - GOLD - DIAMOND  [FOR ADMINS USE ONLY].
+
+
+### 🔗 important_Links
+- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
+- [🤩 Create FILE TO LINK BOT](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
+- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
+- [❣️ Join Youtube](https://www.youtube.com/@LazyDeveloperr)
+
+
+#### 🧡 Respecting... 🧡
+- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- [🔥 lntechnical2](https://github.com/lntechnical2)
+
+### 🤩 INSPIRATION
+<a href="#">
+   <p>❣️ GANGSTER-BABY 🔥</p>
+</a>
